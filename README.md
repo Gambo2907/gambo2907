@@ -32,5 +32,4 @@ C, C++, Python, Verilog, VHDL, Assembly, Linux, Yocto, BitBake, FPGA, Nios II, H
 
 ## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/gambo2907/]
-- Email: sgamo2221@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gambe2907/) · [Email](mailto:sgamo2221@gmail.com)
