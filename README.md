@@ -1,16 +1,36 @@
-## Hi there 👋
+# Gustavo Gamboa Mora
 
-<!--
-**Gambo2907/gambo2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on embedded systems, computer architecture, low-level software, and hardware/software co-design.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded Systems
+- FPGA / SoC Design
+- Bare-metal Programming
+- Linux Systems Programming
+- Computer Architecture
+- Hardware/Software Co-Design
+- Digital Signal Processing
+
+## Featured Projects
+
+### Advanced Audio Player SoC
+Hardware/software co-designed audio player on DE1-SoC using FPGA hardware, Nios II firmware, HPS Linux, shared memory, interrupts, WAV playback, LCD metadata display, and real-time selectable audio filters.
+
+### Autonomous Vacuum Cleaner Robot
+Custom embedded Linux system using Yocto Project, BitBake, Raspberry Pi 4, GPIO, PWM, sensors, and autonomous navigation.
+
+### N-body AVX2 Optimization
+SIMD-optimized N-body simulation using AVX2 intrinsics, numerical validation, and performance profiling with Intel VTune and perf.
+
+### Linux Kernel Histogram Driver
+Linux kernel module and distributed processing system using OpenMPI for image processing and hardware-controlled histogram display.
+
+## Tools & Technologies
+
+C, C++, Python, Verilog, VHDL, Assembly, Linux, Yocto, BitBake, FPGA, Nios II, HPS, Platform Designer, Quartus Prime, ModelSim, GCC, GDB, CMake, Make, Git, OpenMPI.
+
+## Contact
+
+- LinkedIn: [your-link]
+- Email: sgamo2221@gmail.com
